@@ -1,0 +1,61 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.nav {
+   height: 1vh;
+   background: rgb(220, 127, 12);
+   border-bottom: 1px solid rgb(255, 255, 255);
+}
+.nav .nav-item {
+   position: relative;
+   top: -35px;
+}
+.head {
+   color: rgb(255, 255, 255);
+   background: rgb(220, 127, 12);
+}
+.head-2 {
+   height: 80vh;
+   color: rgb(255, 255, 255);
+   background: rgb(220, 127, 12);
+}
+.text-2{
+   padding-top: 10vh;
+   text-align: center;
+   font-size: 8vh;
+}
+.text-2 h1 {
+   font-size: 8vh;
+}
+.but {
+   font-size: 30px;
+   width: 200px;
+   color: rgb(255, 255, 255);
+   background: rgb(220, 127, 12);
+   border: none;
+   border-radius: 50px;
+   box-shadow: 0px 0px 10px black;
+   margin: auto;
+}
+.text-1{
+
+   text-align: center;
+   font-size: 2vh;
+}
+.icon-2 {
+   font-size: 80px;
+   color: rgb(220, 127, 12);
+}
+.icon5 {
+   margin: auto;
+   font-size: 50px;
+}
+.card {
+   margin-right: 10px;
+}
+.carr {
+   margin-left: 25%;
+   margin-bottom: 10px;
+}
